@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \Capture From Entire Screen as WEBM video
+\Capture Video And Add Time Stamp
 \Capture video From Entire Screen
 \Capture video From Entire Screen in QT
 \Capture video From Given Region
