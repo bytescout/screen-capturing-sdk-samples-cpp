@@ -1,11 +1,11 @@
 ## Index of source code examples:
 
-\Capture From Entire Screen as WEBM video
+\Capture From Entire Screen as WEBM Video
 \Capture Video And Add Time Stamp
-\Capture video From Entire Screen
-\Capture video From Entire Screen in QT
-\Capture video From Given Region
-\Capture video From Given Window
-\Capture video from Region Around Mouse
-\Capture video from screen With Webcamera Overlay
+\Capture Video From Entire Screen
+\Capture Video From Entire Screen in QT
+\Capture Video From Given Region
+\Capture Video From Given Window
+\Capture Video From Region Around Mouse
+\Capture Video From Screen With Webcamera Overlay
 \Capture Webm Video From Entire Screen in QT
